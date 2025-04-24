@@ -13,8 +13,8 @@ Este projeto tem como objetivo automatizar a criação de diretórios, grupos e 
 
 ### 🚀 Execução:
 ```bash
-chmod +x provisionamento.sh
-sudo ./provisionamento.sh
+chmod +x projeto-iac1.sh
+sudo ./projeto-iac1.sh
 ```
 
 --- 
